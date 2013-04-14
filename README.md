@@ -2,7 +2,9 @@ about me
 ==== 
 
 喜欢机车、音乐、摄影、武术、行为学、心理学。不随众的理想青年。关注前端开发
+
 所在地区：江苏无锡
+
 目前职位：前端工程师（关注 JavaScript/HTML5/CSS3/Jquery/Bootstrap/Node.js最新技术 ）
 
 个人网站：  http://www.jsued.com/（主要是收集资源用）
