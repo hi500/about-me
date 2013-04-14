@@ -7,7 +7,7 @@ about me
 
 目前职位：前端工程师（关注 JavaScript/HTML5/CSS3/Jquery/Bootstrap/Node.js最新技术 ）
 
-个人网站：  http://www.jsued.com/（主要是收集资源用）
+个人网站：  http://www.jsued.com/  （收集资源用）
 
 新浪微博：  http://weibo.com/920802999
 
